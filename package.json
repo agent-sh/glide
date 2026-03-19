@@ -1,0 +1,10 @@
+{
+  "name": "@agentsys/glide",
+  "version": "1.0.0",
+  "description": "glide-mq message queue skills for agentsys - greenfield development and migration from BullMQ/Bee-Queue",
+  "license": "Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/agent-sh/glide"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "agents": [],
+  "skills": [
+    "glide-mq",
+    "glide-mq-migrate-bullmq",
+    "glide-mq-migrate-bee"
+  ],
+  "commands": []
+}
