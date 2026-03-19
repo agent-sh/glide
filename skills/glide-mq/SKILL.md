@@ -101,7 +101,7 @@ worker.on('failed', (job, err) => console.error(`Job ${job.id} failed:`, err.mes
 |--------|------|---------|-------------|
 | `concurrency` | number | 1 | Parallel job limit |
 | `lockDuration` | number | 30000 | Lock timeout (ms) |
-| `stalledInterval` | number | 5000 | Recovery check frequency (ms) |
+| `stalledInterval` | number | 30000 | Recovery check frequency (ms) |
 
 ## Scheduling and Testing
 
